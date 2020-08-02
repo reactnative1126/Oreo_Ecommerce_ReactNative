@@ -1,0 +1,3 @@
+export const GET_CATEGORIES = 'category/GET_CATEGORIES';
+export const GET_CATEGORIES_SUCCESS = 'category/GET_CATEGORIES_SUCCESS';
+export const GET_CATEGORIES_ERROR = 'category/GET_CATEGORIES_ERROR';

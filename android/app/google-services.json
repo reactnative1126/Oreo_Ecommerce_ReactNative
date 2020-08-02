@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "297766130098",
+    "firebase_url": "https://oreo-240808.firebaseio.com",
+    "project_id": "oreo-240808",
+    "storage_bucket": "oreo-240808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297766130098:android:0a2ac1a0116072653fd4ab",
+        "android_client_info": {
+          "package_name": "com.rn_oreo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297766130098-lmi932plqjhaenoq7nlb23sb6uplhf6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_oreo",
+            "certificate_hash": "5fb4eaf25b23d60d462496b81624b8a769ddc465"
+          }
+        },
+        {
+          "client_id": "297766130098-im4asefb6g2292ubg55c3nbf262iokou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_oreo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "297766130098-ghj0rijuih92uifdfbniuo5tcvm8ig7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_oreo",
+            "certificate_hash": "62853d17e4063563ca6585cffdf685cd7457c30e"
+          }
+        },
+        {
+          "client_id": "297766130098-ctk289dajbucbbrufc7nlaavlr7hnj4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_oreo",
+            "certificate_hash": "489f709c41be04dba23567154cd1c28140617e44"
+          }
+        },
+        {
+          "client_id": "297766130098-m68tu9o0b0kgoi5aut7k3mepd1lotbn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbDBW0eYDdxENtzyRCjujIEuRiHtWMunA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297766130098-m68tu9o0b0kgoi5aut7k3mepd1lotbn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297766130098-hjpcl4oa4njgv28a96hk130aqghlocr8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "oreo.rnlab.io",
+                "app_store_id": "1475075333"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

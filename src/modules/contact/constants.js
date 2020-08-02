@@ -1,0 +1,3 @@
+export const FETCH_CONTACT = 'user/FETCH_CONTACT';
+export const FETCH_CONTACT_SUCCESS = 'user/FETCH_CONTACT_SUCCESS';
+export const FETCH_CONTACT_ERROR = 'user/FETCH_CONTACT_ERROR';
